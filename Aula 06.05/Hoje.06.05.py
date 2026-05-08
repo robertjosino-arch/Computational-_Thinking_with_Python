@@ -53,9 +53,9 @@ match sem:
     case "5":
         print("sexta")
     case "6":
-        print("sabd")
+        print("sabado")
     case "7":
-        print("doming")
+        print("domingo") 
 ####################################
  
 nome_da_uni= ("Me informe o nome da sua faculdade:")
